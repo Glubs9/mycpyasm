@@ -12,7 +12,7 @@ just download all the files, the file Runner.py contains the main function that 
 run Runner.py with one argument being the name of the file.
 
 # why this readme is so short
-I am a bit busy rn, but I might come back, clean this up, and add real documentation.           
+I am a bit busy rn, but I might come back, clean this up, and add real documentation. Although I might not, this github is more for a backup of some projects I have on my computer than any attempt at making real open source software, still feel free to use it and contribute if you want!           
 if you want to have a crack at using this, although there is no documentation, i would recommend first reading through the dis modules commands and then take a peek at the test files (in the folder test).          
 any files with the extension .cpyasm are the source files and the .pyc are the bytecode files.          
 any file directly in the folder test (not in a subfolder) should work on the current version.            
