@@ -1,6 +1,9 @@
 # mycpyasm
 a fully featured human readable python bytecode compiler
 
+# note
+this has been applied practically to my bytecodemacro project. Please look at that there for the most up to date version of this code. That project will also have documentation for the bytecode if you still want to use this project as a stand alone.
+
 # what
 This project describes a compiler for python bytecode that is fully featured (exception to this are in todo).          
 it takes in a file, with a format similar to the output of the dis module and compiles it to valid (only tested in 3.9) cpython bytecode that can then be directly run on cpython.    
